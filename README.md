@@ -26,7 +26,7 @@ Data description:
 
 - data/job_title_true.csv - job title true labeles
 - data/level_true.csv - job level true labeles
-- data/model_result.csv - result of the model
+- data/model_result.csv - dataset and result of the model
 - data/train.txt - data for model train
 - data/valid.txt - data for model validation
 - data/test.txt - data for model test
