@@ -10,7 +10,7 @@ about bonuses)
 - WST - work style (remote, partially remote, a few days in the office etc.)
 
 
-Model results on train dataset:
+Model results on test dataset:
 
 |   | F1 |
 | ------------- | ------------- |
